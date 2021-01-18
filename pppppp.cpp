@@ -18,9 +18,12 @@ for (int i=2; i<liczba/2; i++)
      }
     cout <<"pierwsza";
    return true;
-} 
-plik.close();
+   
+   
+  plik.close();
 plik2.close();
+ 
+} 
 
 int main()
 {
